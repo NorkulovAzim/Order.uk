@@ -1,11 +1,6 @@
-import React from 'react'
 
 const Restaurants = () => {
-    return (
-        <div>
+  return <section>5</section>;
+};
 
-        </div>
-    )
-}
-
-export default Restaurants
+export default Restaurants;
