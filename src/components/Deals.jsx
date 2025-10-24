@@ -1,5 +1,9 @@
 const Deals = () => {
-  return <section>3</section>;
+  return (
+    <section className="deals-section">
+      <div className="container"></div>
+    </section>
+  );
 };
 
 export default Deals;
