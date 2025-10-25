@@ -1,5 +1,5 @@
 const Application = () => {
-  return <section>6</section>;
+  return <section></section>;
 };
 
 export default Application;
