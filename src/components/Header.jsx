@@ -1,5 +1,5 @@
 import StarImg from "../assets/star.png";
-import Location from "../assets/location.png";
+import Location from "../assets/Location.png";
 import Basket from "../assets/Basket.png";
 import ForwardBtn from "../assets/ForwardBtn.png";
 import Logo from "../assets/Logo.svg";
